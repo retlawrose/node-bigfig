@@ -1,20 +1,22 @@
 Contributing Code to Bigfig
 ---------------------------
-Pull requests are very welcome, but should be within the scope of the project
-and follow the repository's code conventions. Before submitting a pull request
-it's helpful to file an issue, so we can discuss the intent and approach of
-the proposed change.
 
-Please be sure to sign our [CLA][] before you submit a pull request or
-otherwise contribute to Bigfig. Here's the CLA's human-readable summary:
-> You are saying that you have the right to give us this code, which is either
-> your own code, or code that your company allows you to publish. You want to
-> give us this code. We may decide to use this code. You are not going to sue
-> people who use this code, because, after all, you are giving it to an open
-> source project! And if you include code that you didn't write, you'll tell
-> us about it by including the open source license to such code in your
-> contribution so we'll know about it. You are not promising that this code
-> works well, or that you will support it, and we're OK with that.
+# How to contribute
+First, thanks for taking the time to contribute to our project! The following information provides a guide for making contributions.
 
+## Code of Conduct
+By participating in this project, you agree to abide by the [Oath Code of Conduct](Code-of-Conduct.md). Everyone is welcome to submit a pull request or open an issue to improve the documentation, add improvements, or report bugs.
 
-[CLA]: https://yahoocla.herokuapp.com/
+## How to Ask a Question
+If you simply have a question that needs an answer, [create an issue](https://help.github.com/articles/creating-an-issue/), and label it as a question.
+
+### Report a Bug or Request a Feature
+If you encounter any bugs while using this software, or want to request a new feature or enhancement, feel free to [create an issue](https://help.github.com/articles/creating-an-issue/) to report it, make sure you add a label to indicate what type of issue it is.
+
+### Contribute Code
+Pull requests are welcome for bug fixes. If you want to implement something new, please [request a feature first](#report-a-bug-or-request-a-feature) so we can discuss it.
+
+#### Creating a Pull Request
+Please follow [best practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices) for creating git commits.
+
+When your code is ready to be submitted, you can [submit a pull request](https://help.github.com/articles/creating-a-pull-request/) to begin the code review process.
